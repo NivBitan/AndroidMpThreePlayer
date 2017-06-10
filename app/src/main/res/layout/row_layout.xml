@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="#000000">
+
+    <ImageView
+        android:id="@+id/artist_poster1"
+        android:layout_width="100dp"
+        android:layout_height="52dp"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/guns1"
+        />
+    <TextView
+        android:id="@+id/artist_name"
+        android:layout_width="175dp"
+        android:layout_height="52dp"
+        android:layout_toRightOf="@+id/artist_poster1"
+        android:text="Guns N Roses"
+        android:gravity="center"
+        android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:id="@+id/artist_poster2"
+        android:layout_width="100dp"
+        android:layout_height="52dp"
+        android:src="@drawable/guns1"
+        android:layout_alignParentRight="true"
+        />
+
+    <!--horizontal line -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FFFFFF"
+        android:layout_below="@+id/artist_poster1">
+    </View>
+</RelativeLayout>

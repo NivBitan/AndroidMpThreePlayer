@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Mp3Player</string>
+    <string-array name="artist_names">
+        <item>Guns N Roses</item>
+        <item>Alice In Chains</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Led Zeppelin</item>
+        <item>Nirvana</item>
+        <item>Disturbed</item>
+        <item>Linkin Park</item>
+        <item>ACDC</item>
+        <item>The Doors</item>
+        <item>Metallica</item>
+        <item>Black Sabbath</item>
+        <item>Avenge Sevenfold</item>
+    </string-array>
+
+    <string-array name="Disturbed_songs">
+        <item>The Game</item>
+        <item>Stupify</item>
+        <item>Down With The Sickness</item>
+    </string-array>
+
+    <string-array name="Linkin_Park_songs">
+        <item>In The End</item>
+        <item>Numb</item>
+        <item>New Divide</item>
+    </string-array>
+
+    <string-array name="ACDC_songs">
+        <item>Thunderstruck</item>
+        <item>Highway To Hell</item>
+        <item>T.N.T</item>
+    </string-array>
+
+    <string-array name="The_Doors_songs">
+        <item>Riders On The Storm</item>
+        <item>Alabama Song</item>
+        <item>People Are Strange</item>
+    </string-array>
+
+    <string-array name="Metallica_songs">
+        <item>To Live Is to Die</item>
+        <item>The Day That Never Comes</item>
+        <item>Wherever I May Roam</item>
+        <item>For Whom The Bell Tolls</item>
+    </string-array>
+
+    <string-array name="Avenge_Sevenfold_songs">
+        <item>Almost Easy</item>
+        <item>Dear God</item>
+        <item>Seize the Day</item>
+    </string-array>
+
+    <string-array name="Black_Sabbath_songs">
+        <item>Iron Man</item>
+        <item>War Pigs</item>
+        <item>Paranoid</item>
+    </string-array>
+
+    <string-array name="guns_N_roses_songs">
+        <item>Sweet Child Of Mine</item>
+        <item>November Rain</item>
+        <item>Welcome To The Jungle</item>
+    </string-array>
+
+    <string-array name="Alice_In_Chains_songs">
+        <item>Would</item>
+        <item>Stone</item>
+        <item>Rooster</item>
+    </string-array>
+
+    <string-array name="Red_Hot_Chili_Peppers_songs">
+        <item>OtherSide</item>
+        <item>Californication</item>
+        <item>Suck My Kiss</item>
+        <item>Under The Bridge</item>
+        <item>Scar Tissue</item>
+    </string-array>
+
+    <string-array name="Led_Zepplin_songs">
+        <item>Kashmir</item>
+        <item>Stairway to Heaven</item>
+        <item>Black Dog</item>
+        <item>The Lemon Song</item>
+        <item>Ramble On</item>
+    </string-array>
+
+    <string-array name="Nirvana_songs">
+        <item>Come As You Are</item>
+        <item>Smell Like Teen Spirit</item>
+        <item>Lithium</item>
+        <item>Polly</item>
+        <item>On A Plain</item>
+        <item>In Bloom</item>
+    </string-array>
+</resources>
